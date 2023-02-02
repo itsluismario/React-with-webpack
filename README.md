@@ -7,4 +7,4 @@ In the project directory, you can run:
 ### `npm start`
 
 ### Project finished
-basic-react-project-with-webpack.netlify.app
+https://basic-react-project-with-webpack.netlify.app
