@@ -1,4 +1,4 @@
-# A basic structure project in react optimized using Webpack
+# A basic project in react optimized using Webpack
 
 ##Getting Started 
 
