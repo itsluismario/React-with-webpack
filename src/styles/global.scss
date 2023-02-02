@@ -1,0 +1,9 @@
+$base-color: #ffff;
+$color:rgba(0, 0, 0, 0.1) 0px 4px 12px;
+$font: sohne-var, "Helvetica Neue", Arial, sans-serif;
+
+body {
+    background-color: $base-color;
+    color: $color;
+    font-family: $font;
+}
